@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#formulario {
+	float: center;
+	width: 25%;
+}
+
+#resultados {
+	float: center;
+	width: 76%;
+	margin-top: 60px;
+}
+
+#pesquisa {
+	float: center;
+	width: 25%;
+}
